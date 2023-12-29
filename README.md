@@ -2,7 +2,7 @@
  Tracy Hu <br>
  12/29/2023
 
-# Running the program
+## Running the program
 Run the server program first with the command line 
 ```
 python3 server.py
@@ -15,9 +15,11 @@ python3 client.py
 
 See screen capture(mp4) for illustrated steps.
 
-Notes:
-Press "q" to stop the video frame, control+c to exit.<br>
+### Notes:
+Press "q" to stop the video frame, control+c to exit. <br>
+
 Received coordiantes, Actual coordinates, and Error are displayed in the console running server.py
+<br>
 
 
 ## Requirements
