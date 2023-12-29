@@ -1,5 +1,5 @@
 # Video Streaming with aiortc
- Tracy Hu 
+ Tracy Hu <br>
  12/29/2023
 
 # Running the program
@@ -13,7 +13,7 @@ Then run the client program with the command line
 python3 client.py
 ```
 
-See screen capture(mp4) for steps
+See screen capture(mp4) for illustrated steps
 
 
 ## Requirements
