@@ -13,7 +13,11 @@ Then run the client program with the command line
 python3 client.py
 ```
 
-See screen capture(mp4) for illustrated steps
+See screen capture(mp4) for illustrated steps.
+
+Notes:
+Press "q" to stop the video frame, control+c to exit.
+Received coordiantes, Actual coordinates, and Error are displayed in the console running server.py
 
 
 ## Requirements
